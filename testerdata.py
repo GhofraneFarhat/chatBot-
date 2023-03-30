@@ -38,7 +38,7 @@ try:
 
     # Suppression d'une ligne de la table 1
     with connection.cursor() as cursor:
-        sql = "DELETE FROM table1 WHERE question='hey'"
+        sql = "DELETE FROM table2 WHERE question='bien'"
         cursor.execute(sql)
     connection.commit()
 
