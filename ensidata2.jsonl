@@ -1,0 +1,43 @@
+{"prompt": "Quelle est la capitale de l'Italie ?", "completion": "Rome"}
+{"prompt":"Où se trouve la salle 2 de l'ENSI ?", "completion":" La salle 2 est située au premier étage dans la partie sud à côté du côté buvette à proximité de la classe 1"}
+{"prompt":"Où se trouve la salle 3 de l'ENSI ?", "completion":" La salle 3 est située au premier étage dans la partie sud à proximité de la classe 2"}
+{"prompt":"Où se trouve la salle 4 de l'ENSI ?", "completion":" La salle 4 est située au premier étage dans la partie sud à proximité de la classe 3"}
+{"prompt":"Où se trouve la salle 5 de l'ENSI ?", "completion":" La salle 5 est située au premier étage dans la partie sud à proximité de la classe 4. FIN"}
+{"prompt":"Où se trouve la salle 6 de l'ENSI ?", "completion":" La salle 6 est située au premier étage dans la partie sud à proximité de la classe 5. FIN"}
+{"prompt":"Où se trouve la salle 7 de l'ENSI ?", "completion":" La salle 7 est située au premier étage dans la partie sud à proximité de la classe 6. FIN"}
+{"prompt":"Où se trouve la salle 8 de l'ENSI ?", "completion":" La salle 8 est située au rez-de-chaussée dans la partie nord près de l'escalier nord. FIN"}
+{"prompt":"Où se trouve la salle 9 de l'ENSI ?", "completion":" La salle 9 est située au premier étage dans la partie nord à proximité de la classe 8. FIN"}
+{"prompt":"Où se trouve la salle 10 de l'ENSI ?", "completion":" La salle 10 est située au premier étage dans la partie nord à proximité de la classe 9. FIN"}
+{"prompt":"Où se trouve la salle 11 de l'ENSI ?", "completion":" La salle 11 est située au premier étage dans la partie nord à proximité de la classe 10. FIN"}
+{"prompt":"Où se trouve la salle 12 de l'ENSI ?", "completion":" La salle 12 est située au premier étage dans la partie nord à proximité de la classe 11. FIN"}
+{"prompt":"Où se trouve la salle 13 de l'ENSI ?", "completion":" La salle 13 est située au premier étage dans la partie nord à proximité de la classe 12. FIN"}
+{"prompt":"Où se trouve la salle 14 de l'ENSI ?", "completion":" La salle 14 est située au premier étage dans la partie nord à proximité de la classe 13. FIN"}
+{"prompt":"Où se trouve la salle 15 de l'ENSI ?", "completion":" La salle 15 est située au premier étage dans la partie nord à proximité de la classe 14. FIN"}
+{"prompt":"Où se trouve la salle 16 de l'ENSI ?", "completion":" La salle 16 est située au premier étage dans la partie nord à proximité de la classe 15. FIN"}
+{"prompt":"Où se trouve la salle 17 de l'ENSI ?", "completion":" La salle 17 est située au premier étage dans la partie nord à proximité de la classe 16. FIN"}
+{"prompt":"Où se trouve la salle 18 de l'ENSI ?", "completion":" La salle 18 est située au premier étage dans la partie nord à proximité de la classe 17. FIN"}
+{"prompt":"Où se trouve la salle 19 de l'ENSI ?", "completion":" La salle 19 est située au premier étage dans la partie nord à proximité de la classe 18. FIN"}
+{"prompt":"Où se trouve la salle 20 de l'ENSI ?", "completion":" La salle 20 est située au premier étage dans la partie nord à proximité de la classe 19. FIN"}
+{"prompt":"Où se trouve la salle 21 de l'ENSI ?", "completion":" La salle 21 est située au premier étage dans la partie nord à proximité de la classe 20. FIN"}
+{"prompt":"Où se trouve la salle 22 de l'ENSI ?", "completion":" La salle 22 est située au premier étage dans la partie nord à proximité de la classe 21. FIN"}
+{"prompt":"Où se trouve la chambre du Master à l'ENSI ?", "completion":" La chambre Master est située au deuxième étage dans la partie nord. FIN"}
+{"prompt":"Où se trouve la salle data science de l'ENSI ?", "completion":" La salle data science est située au deuxième étage dans la partie nord, près de la classe 17. FIN"}
+{"prompt":"Où se trouve la salle finance de l'ENSI ?", "completion":" La salle finance est située au deuxième étage dans la partie sud près de la classe 17. FIN"}
+{"prompt":"Où se trouve la chambre sle de l'ENSI ?", "completion":" La chambre sle est située au deuxième étage dans la partie nord près de la buvette. FIN"}
+{"prompt":"Où se trouve la salle iot de l'ENSI ?", "completion":" La salle iot est située au deuxième étage dans la partie nord près de l'administration. FIN"}
+{"prompt":"Où se trouve la salle IA de l'ENSI ?", "completion":" La salle IA est située au deuxième étage dans la partie nord près de l'arbre. FIN"}
+{"prompt":"Où se trouve la salle GL de l'ENSI ?", "completion":" La salle GL est située au deuxième étage dans la partie nord près de la table. FIN"}
+{"prompt":"Où est située l'association robotique de l'ENSI ?", "completion":" L'ARE est située au troisième étage dans la partie est à proximité de l'administration. FIN"}
+{"prompt":"Où se trouve le cpc de l'ENSI ?", "completion":" le cpc est situé au premier étage dans la partie nord. FIN"}
+{"prompt":"Où se trouve le cps de l'ENSI ?", "completion":" le cps est situé au premier étage dans la partie nord. FIN"}
+{"prompt":"Où est situé l'IEEE de l'ENSI ?", "completion":" L'IEEE est situé au premier étage dans la partie nord. FIN"}
+{"prompt":"Où est situé le NATEG de l'ENSI ?", "completion":" Le NATEG est situé au premier étage dans la partie nord. FIN"}
+{"prompt":"Où est situé l'OSSEC de l'ENSI ?", "completion":" L'OSSEC est situé au premier étage dans la partie nord. FIN"}
+{"prompt":"Où est situé le GDG de l'ENSI ?", "completion":" Le GDG est situé au premier étage dans la partie nord"}
+{"prompt":"Où est située la Junior entreprise de l'ENSI ?", "completion":" La Junior entreprise est située au premier étage dans la partie nord. FIN"}
+{"prompt":"Où se trouve la Musique de l'ENSI ?", "completion":" La Musique est située au premier étage dans la partie nord. FIN"}
+{"prompt":"Où est situé Chess de l'ENSI ?", "completion":" Chess est situé au premier étage dans la partie nord. FIN"}
+{"prompt":"où est le bloc administratif ?", "completion":" le bloc administratif est juste à droite de la porte d'entrée END"}
+{"prompt":"où se trouve l'ensi ?", "completion":" R377+FGR، Campus Universitaire de, Manouba 2010 \n END"}
+{"prompt":"Où est située la bibliothèque ?", "completion":" la bibliothèque est au deuxième étage. FIN"}
+{"prompt": "Quelle est la devise du Japon ?", "completion": "Yen"}
