@@ -6,5 +6,52 @@
 {"question": "evenemennet", "reponse": "events"}
 {"question": "evennet", "reponse": "events"}
 {"question": "eventss", "reponse": "events"}
-{"question": " ivents", "reponse": "events"}
-
+{"question": "ivents", "reponse": "events"}
+{"question": "événements", "reponse": "events"}
+{"question": "évenements", "reponse": "events"}
+{"question": "événementts", "reponse": "events"}
+{"question": "évènements", "reponse": "events"}
+{"question": "événemennts", "reponse": "events"}
+{"question": "événement", "reponse": "events"}
+{"question": "événnements", "reponse": "events"}
+{"question": "événemments", "reponse": "events"}
+{"question": "etudiannet", "reponse": "etudiant"}
+{"question": "exam", "reponse": "result_exam"}
+{"question": "examen", "reponse": "result_exam"}
+{"question": "examens", "reponse": "result_exam"}
+{"question": "exams", "reponse": "result_exam"}
+{"question": "les étudiants", "reponse": "etudiant"}
+{"question": "les projets du pcd", "reponse": "sujet_pcd"}
+{"question": "les resultats des pfe", "reponse": "result_pfe"}
+{"question": "les résultats du pcd", "reponse": "result_pcd"}
+{"question": "les sujet des projets d'été", "reponse": "sujet_pe"}
+{"question": "les sujets du pfe", "reponse": "sujet_pfe"}
+{"question": "mon resultat pfe", "reponse": "result_pfe"}
+{"question": "pcd result", "reponse": "result_pcd"}
+{"question": "pcd subjects", "reponse": "sujet_pcd"}
+{"question": "pe results", "reponse": "result_pe"}
+{"question": "pfe result", "reponse": "result_pfe"}
+{"question": "pfe subjetcs", "reponse": "sujet_pfe"}
+{"question": "pfe sujets ", "reponse": "sujet_pfe"}
+{"question": "prof", "reponse": "professeur"}
+{"question": "profesor", "reponse": "professeur"}
+{"question": "professeur", "reponse": "professeur"}
+{"question": "professor", "reponse": "professeur"}
+{"question": "proff", "reponse": "professeurprofesseur"}
+{"question": "proffet", "reponse": "professeur"}
+{"question": "result exam", "reponse": "result_exam"}
+{"question": "result exams", "reponse": "result_exam"}
+{"question": "result pcd", "reponse": "result_pcd"}
+{"question": "result pe", "reponse": "result_pe"}
+{"question": "result summer project", "reponse": "result_pe"}
+{"question": "résultat des pcd", "reponse": "result_pcd"}
+{"question": "résultat du pcd", "reponse": "result_pcd"}
+{"question": "résultat du projet d'été", "reponse": "result_pfe"}
+{"question": "resultat examens", "reponse": "result_exam"}
+{"question": "resultat exams", "reponse": "result_exam"}
+{"question": "résultat pcd", "reponse": "result_pcd"}
+{"question": "résultat pfe", "reponse": "result_pfe"}
+{"question": "students", "reponse": "etudiant"}
+{"question": "sujet pcd", "reponse": "sujet_pcd"}
+{"question": "sujet pe", "reponse": "sujet_pe"}
+{"question": "summer projetcs subjects", "reponse": "sujet_pe"}
