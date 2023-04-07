@@ -6,6 +6,7 @@ import numpy as np
 from sklearn.metrics import precision_score
 import speech_recognition as sr
 import mysql.connector
+import time
 
 
 
@@ -83,7 +84,7 @@ voices = engine.getProperty('voices')       #getting details of current voice
 
 
 # engine.setProperty('voice', voices[2h].id)  # Set to a French voice
-engine.setProperty('rate', 150)     # setting up new voice rate
+engine.setProperty('rate', 200)     # setting up new voice rate
 engine.setProperty('volume',1.0)    # setting up volume level  between 0 and 1
 
 engine.setProperty('voice', voices[0].id)  #changing index, changes voices. o for male
@@ -144,19 +145,44 @@ while True:
     print("Answer is")
     speak_answer(result["answer"])'''
 
-
+#, end='', flush=True #hadhi ta3 yarje3 lstar ama mich fahemtha 
     speak_answer("proposer votre question")
-    question = input("Posez votre question : ")
+    question = input("\n Proposer votre question : ")
     result = predict_answer(question)
+
+    #print (result, "salut")
+
+
+    #afficher la question que le user a demander
     print("Question :", result["question"])
+    #afficher la question proposée par le chatbot de la data 
     print("Question Proposed:", result["question_data"])
+    #afficher la réponse
     print("Answer:", result["answer"])
-    speak_answer("La question est:")
-    speak_answer(result["question"])
-    speak_answer("le question Proposé est: ")
-    speak_answer(result["question_data"])
-    speak_answer("la réponse est: ")
-    speak_answer(result["answer"])
-    
+
+    for char in result["answer"]:
+        print(char, end='', flush=True)
+        if char.isspace() or char in [',', '.', '!', '?', ';', ':']:
+            engine.say(result["answer"][:result["answer"].index(char)])
+            engine.runAndWait()
+            result["answer"] = result["answer"][result["answer"].index(char)+1:]
+            time.sleep(0.05) # Réduire le temps de pause entre chaque caractère
+        '''engine.say(result["answer"])
+        engine.runAndWait()'''
+
+
+    #speak_answer("La question est:")
+    #speak_answer(result["question"])
+    #speak_answer("le question Proposé est: ")
+    #speak_answer(result["question_data"])
+    #speak_answer("la réponse est: ")
+    #speak_answer(result["answer"])
+
+
+# Lire le reste de la réponse en tant que dernier mot
+engine.say(result["answer"])
+engine.runAndWait()
+
+
 # Close database connection
 db.close()
